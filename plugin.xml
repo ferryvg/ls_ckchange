@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <name>
+        <lang name="default">Change photo from uploaded</lang>
+        <lang name="russian">Выбор фото с сервера</lang>
+    </name>
+    <author>
+        <lang name="default">ferry-very-good</lang>
+        <lang name="russian">ferry-very-good</lang>
+    </author>
+    <homepage>http://vk.com/ferry.very.good</homepage>
+    <version>1.0.0</version>
+    <requires>
+        <livestreet>1.0.0</livestreet>
+        <plugins>
+        </plugins>
+    </requires>
+    <description>
+        <lang name="default">The plugin allows you to select photos from already uploaded to the server. Requires CKFinder. By default, this functionality is only available to administrators.</lang>
+        <lang name="russian">Плагин позволяет выбирать фото из уже загруженных на сервер. Необходим CKFinder. По умолчанию данный функционал доступен только администраторам.</lang>
+    </description>
+</plugin>
